@@ -16,7 +16,8 @@ You may also see any lint errors in the console.
 
 ### `Presentation`
 
-[running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Open [https://github.com/Kuldeep-Kumar-Sharma/Assignment-FARI-totem/blob/main/] for presentation
 
 ## Deployed
+For Deployed Version [https://assignment-fari-totem.vercel.app/]
 
