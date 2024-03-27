@@ -16,8 +16,8 @@ You may also see any lint errors in the console.
 
 ### `Presentation`
 
-Open [https://github.com/Kuldeep-Kumar-Sharma/Assignment-FARI-totem/blob/main/] for presentation
+Open [FARI Presentation](https://github.com/Kuldeep-Kumar-Sharma/Assignment-FARI-totem/blob/main/FARI.pdf) for presentation
 
 ## Deployed
-For Deployed Version [https://assignment-fari-totem.vercel.app/]
+For Deployed Version [FARI Totem](https://assignment-fari-totem.vercel.app/)
 
